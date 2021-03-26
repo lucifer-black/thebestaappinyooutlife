@@ -1,0 +1,10 @@
+C:\Users\ПК\source\repos\my application 221b\my application 221b\bin\Debug\my application 221b.exe.config
+C:\Users\ПК\source\repos\my application 221b\my application 221b\bin\Debug\my application 221b.exe
+C:\Users\ПК\source\repos\my application 221b\my application 221b\bin\Debug\my application 221b.pdb
+C:\Users\ПК\source\repos\my application 221b\my application 221b\obj\Debug\my application 221b.csprojAssemblyReference.cache
+C:\Users\ПК\source\repos\my application 221b\my application 221b\obj\Debug\my_application_221b.Form1.resources
+C:\Users\ПК\source\repos\my application 221b\my application 221b\obj\Debug\my_application_221b.Properties.Resources.resources
+C:\Users\ПК\source\repos\my application 221b\my application 221b\obj\Debug\my application 221b.csproj.GenerateResource.cache
+C:\Users\ПК\source\repos\my application 221b\my application 221b\obj\Debug\my application 221b.csproj.CoreCompileInputs.cache
+C:\Users\ПК\source\repos\my application 221b\my application 221b\obj\Debug\my application 221b.exe
+C:\Users\ПК\source\repos\my application 221b\my application 221b\obj\Debug\my application 221b.pdb

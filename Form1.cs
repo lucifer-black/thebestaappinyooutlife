@@ -24,7 +24,17 @@ namespace my_application_221b
 
         private void button2_Click(object sender, EventArgs e)
         {
-            Application.Exit();
+            DialogResult result = MessageBox.Show(
+                        "Would you like to exit?",
+                        "wreeeeeeeeeeeee!!!!!!!!!11!!1!1!11",
+                        MessageBoxButtons.YesNo,
+                        MessageBoxIcon.Question,
+                        MessageBoxDefaultButton.Button1);
+
+            if (result == DialogResult.Yes)
+            {
+                Application.Exit();
+            }
         }
 
         private void button1_Click(object sender, EventArgs e)

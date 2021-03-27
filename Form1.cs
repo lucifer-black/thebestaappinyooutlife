@@ -24,12 +24,30 @@ namespace my_application_221b
 
         private void button2_Click(object sender, EventArgs e)
         {
-            Application.Exit();
+            DialogResult result = MessageBox.Show(
+                        "Would you like to exit?",
+                        "wreeeeeeeeeeeee!!!!!!!!!11!!1!1!11",
+                        MessageBoxButtons.YesNo,
+                        MessageBoxIcon.Question,
+                        MessageBoxDefaultButton.Button1);
+
+            if (result == DialogResult.Yes)
+            {
+                Application.Exit();
+            }
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show(textBox1.Text, "There is your text");
+            if (textBox1.Text.Length > 0)
+            {
+                MessageBox.Show(textBox1.Text, "There is your text");
+            }
+            else
+            {
+                MessageBox.Show("Pls enter some data!", "Error", MessageBoxButtons.OK , MessageBoxIcon.Warning);
+            }
+            
         }
     }
 }

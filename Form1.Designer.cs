@@ -60,7 +60,6 @@ namespace my_application_221b
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(203, 20);
             this.textBox1.TabIndex = 2;
-            this.textBox1.Text = "You want it?";
             // 
             // Form1
             // 
